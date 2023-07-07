@@ -10,4 +10,5 @@ It can't download everything as it has problem with tokens cookies and stuff...i
 Installation: there's no need for such thing
 
 usage: python <path>/dl.py <url> <save_directory>
+
 example: python D:/.../dl.py https://ftp.gnu.org/gnu/wget/wget-1.5.3.tar.gz D:/
