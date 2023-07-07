@@ -4,7 +4,7 @@ Only made cause it was recommended to use github
 
 simple donwload manager(downloader at this point) using requests library in python
 
-It can't download everything as it has problem with tokens cookies and stuff...it's as simple as it is
+It can't download everything as it has problems with tokens cookies and stuff...it's as simple as it is
 
 Installation: there's no need for such thing
 
