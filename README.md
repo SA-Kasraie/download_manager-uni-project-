@@ -3,7 +3,6 @@ This will be deleted in 14 days until 21/07/2023
 Only made cause it was recommended to use github
 
 simple donwload manager using requests library in python
-got the code from geekforgeek, modified it, added a few features, read it, understood it (i'm a noob(scriptkidde i know that)
 
 It can't download everything as it has problem with tokens cookies and stuff...it's as simple as it is
 
